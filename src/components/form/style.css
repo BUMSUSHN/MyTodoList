@@ -1,0 +1,41 @@
+
+.add-form {
+    background-color: #f7e36e;
+    border-radius: 12px;
+    margin: 0 auto;
+    padding: 30px;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .input-group {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .form-label {
+  font-size: 18px;
+  font-weight: 600;
+  }
+  
+  .add-input{ 
+    height: 40px;
+    width: 250px;
+    border: none;
+    border-radius: 12px;
+    padding: 0 50px;
+  }
+  
+  
+  .add-button {
+    border: none;
+    height: 50px;
+    border-radius: 12px;
+    background-color: teal;
+    width: 150px;
+    color: #fff;
+    font-weight: 1200;
+  }
